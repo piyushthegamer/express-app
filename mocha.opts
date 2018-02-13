@@ -1,0 +1,3 @@
+--colors
+--timeout 3000
+app/**/*.spec.js

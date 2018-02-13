@@ -1,0 +1,13 @@
+{
+    "mysql":
+    {   
+        "connectionLimit":2,
+        "host": "localhost",
+        "user": "root",
+        "password": "root",
+        "database" : "authuser"    
+    },
+    "secret":"secret key for session",
+    "port":3000,
+    "host":"http://127.0.0.1"
+}
