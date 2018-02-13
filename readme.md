@@ -4,7 +4,7 @@
 
 ### How to install
 * just download the code from git and run `npm install`.
-* Restore the sql file. 
+* Restore the sql file in your mysql server.  
 
 #### To run test run `npm test`
 #### To start server run `npm start`
